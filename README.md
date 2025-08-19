@@ -1,5 +1,6 @@
 # Ryan G Nattrass -- 🔭**Data Analyst**🔭
 - 📩 ryangnattrass@gmail.com
+- 🔬 Scientific Publications - [Mild-COVID-19's effect on age and the adaptive immune response](https://github.com/CarbonSnitch/CarbonSnitch/blob/main/IMM-166-327_Age_Th1_COVID-19.pdf), and [Flucloxacillin hypersensitivity](https://github.com/CarbonSnitch/CarbonSnitch/blob/main/Toxicol.%20Sci.-2015-Nattrass-146-56.pdf)
 
 ## Please find a link to my [portfolio](https://github.com/CarbonSnitch/CarbonSnitch/blob/main/Data_Analyst_Portfolio_RGN_PDF.pdf) of completed Projects as well as a breakdown-below
 
