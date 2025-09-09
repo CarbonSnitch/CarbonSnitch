@@ -1,6 +1,7 @@
 # 🔭**Data Analyst**🔭 -- Ryan G Nattrass PhD
 - 📩 ryangnattrass@gmail.com
 - 🔬 Scientific Publications - [Mild-COVID-19's effect on age and the adaptive immune response](https://github.com/CarbonSnitch/CarbonSnitch/blob/main/IMM-166-327_Age_Th1_COVID-19.pdf), and [Flucloxacillin hypersensitivity](https://github.com/CarbonSnitch/CarbonSnitch/blob/main/Toxicol.%20Sci.-2015-Nattrass-146-56.pdf)
+- Live Dashboard of NY bike-rental to determine better bike-distribution - [Citibike Dashboard](https://carbonsnitch-ny-citibike-2022-st-dashboard-awrftk.streamlit.app/)
 
 ## Please find a link to my [portfolio](https://github.com/CarbonSnitch/CarbonSnitch/blob/main/Data_Analyst_Portfolio_RGN_PDF.pdf) of completed Projects as well as a breakdown-below
 
@@ -30,6 +31,18 @@ The Global pandemic significantly increased the death rate during the years 2020
 Final project deliverables included a presentation of [data-driven answers](https://github.com/CarbonSnitch/Portfolio_Rockbuster_SQL/blob/main/Rockbuster_sent_to_client/Rockbuster_Presentation_RGN.pdf).
 
 ![Two graphs indicating where the most customers are located worldwide and association with population](https://github.com/CarbonSnitch/Portfolio_Rockbuster_SQL/blob/main/Visualizations/Cust%20Location%20and%20pop.png)
+
+### [4. Analysis of NY bike-rental patterns to determine better bike disrtibution](https://carbonsnitch-ny-citibike-2022-st-dashboard-awrftk.streamlit.app/)
+
+#### The project goals were to answer the questions of
+- Is there a seasonality to the bike rentals?
+- Is there a weather component to bike-rentals
+- Which are the most-popular stations to rent from?
+- How can we better distribute bikes so that we get less customer complaints?
+
+Final Project deliverables include a [Streamlit Dashboard](https://carbonsnitch-ny-citibike-2022-st-dashboard-awrftk.streamlit.app/) and a video-presentation.
+
+![Graph showing heatmap of bike rental stations](https://github.com/CarbonSnitch/NY_Citibike_2022/blob/main/04_Visualisations/Heatmap_NY_mapped.png?raw=true)
 
 
 ## Additional projects include a [analysis of an online Grocery Store customer base to determine customer-profile and value](https://github.com/CarbonSnitch/Portfolio_Instacart_Python/blob/main/05%20Sent%20to%20Client/Data_Analyst_Portfolio_Instacart.pdf)
