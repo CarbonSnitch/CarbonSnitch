@@ -1,6 +1,21 @@
-# 🔭**Data Analyst**🔭 -- Ryan G Nattrass PhD
-- 📩 ryangnattrass@gmail.com
-- 🔬 Scientific Publications - [Mild-COVID-19's effect on age and the adaptive immune response](https://github.com/CarbonSnitch/CarbonSnitch/blob/main/IMM-166-327_Age_Th1_COVID-19.pdf), and [Flucloxacillin hypersensitivity](https://github.com/CarbonSnitch/CarbonSnitch/blob/main/Toxicol.%20Sci.-2015-Nattrass-146-56.pdf)
+# Ryan G. Nattrass, PhD  
+## Data Analyst
+
+---
+
+## 📫 Contact  
+Email: ryangnattrass@gmail.com  
+[Full Portfolio (PDF)](https://github.com/CarbonSnitch/CarbonSnitch/blob/main/Data_Analyst_Portfolio_RGN_PDF.pdf)
+
+---
+
+## 🔬 Publications  
+- **Mild-COVID-19’s Effect on Age and the Adaptive Immune Response**  
+  https://github.com/CarbonSnitch/CarbonSnitch/blob/main/IMM-166-327_Age_Th1_COVID-19.pdf  
+
+- **Flucloxacillin Hypersensitivity**  
+  https://github.com/CarbonSnitch/CarbonSnitch/blob/main/Toxicol.%20Sci.-2015-Nattrass-146-56.pdf
+
 - Live Dashboard of NY bike-rental to determine better bike-distribution - [Citibike Dashboard](https://carbonsnitch-ny-citibike-2022-st-dashboard-awrftk.streamlit.app/)
 
 ## Please find a link to my [portfolio](https://github.com/CarbonSnitch/CarbonSnitch/blob/main/Data_Analyst_Portfolio_RGN_PDF.pdf) of completed Projects as well as a breakdown-below
@@ -52,17 +67,13 @@ Final Project deliverables include a [Streamlit Dashboard](https://carbonsnitch-
 ## and an NLP analysis of a 20th-century-events wiki to determine the [most influential countries in the 20th century](https://github.com/CarbonSnitch/20th_century)
 
 ![Network Analysis of the most influential countries in the 20th century](https://github.com/CarbonSnitch/20th_century/blob/main/Visualizations/Network_2D_countries.png)
-<!--
-**CarbonSnitch/CarbonSnitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠 Core Skills & Tools
 
-- 🔭 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category        | Tools & Technologies                           |
+|-----------------|------------------------------------------------|
+| Programming     | Python (pandas, NumPy, scikit-learn)           |
+| Databases       | SQL (PostgreSQL, MySQL), SQLite                |
+| Visualization   | Tableau, Matplotlib, Seaborn, Plotly           |
+| BI & Dashboards | Streamlit, Power BI                            |
+| Workflow        | Git, GitHub, Jupyter Notebooks                 |
