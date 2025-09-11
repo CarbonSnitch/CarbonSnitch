@@ -47,7 +47,7 @@ Final project deliverables included a presentation of [data-driven answers](http
 
 ![Two graphs indicating where the most customers are located worldwide and association with population](https://github.com/CarbonSnitch/Portfolio_Rockbuster_SQL/blob/main/Visualizations/Cust%20Location%20and%20pop.png)
 
-### [4. Analysis of NY bike-rental patterns to determine better bike disrtibution](https://carbonsnitch-ny-citibike-2022-st-dashboard-awrftk.streamlit.app/)
+### [4. Analysis of NY bike-rental patterns to determine better bike distribution](https://carbonsnitch-ny-citibike-2022-st-dashboard-awrftk.streamlit.app/)
 
 #### The project goals were to answer the questions of
 - Is there a seasonality to the bike rentals?
@@ -57,7 +57,7 @@ Final project deliverables included a presentation of [data-driven answers](http
 
 Final Project deliverables include a [Streamlit Dashboard](https://carbonsnitch-ny-citibike-2022-st-dashboard-awrftk.streamlit.app/) and a video-presentation.
 
-![Graph showing heatmap of bike rental stations](https://github.com/CarbonSnitch/NY_Citibike_2022/blob/main/04_Visualisations/Heatmap_NY_mapped.png?raw=true)
+![Graph showing heatmap of bike rental stations](https://github.com/CarbonSnitch/NY_Citibike_2022/blob/main/04_Visualisations/Heatmap_with_legend.png)
 
 
 ## Additional projects include a [analysis of an online Grocery Store customer base to determine customer-profile and value](https://github.com/CarbonSnitch/Portfolio_Instacart_Python/blob/main/05%20Sent%20to%20Client/Data_Analyst_Portfolio_Instacart.pdf)
