@@ -16,7 +16,7 @@ Email: ryangnattrass@gmail.com
 - **Flucloxacillin Hypersensitivity**  
   https://github.com/CarbonSnitch/CarbonSnitch/blob/main/Toxicol.%20Sci.-2015-Nattrass-146-56.pdf
 
-- Live Dashboard of NY bike-rental to determine better bike-distribution - [Citibike Dashboard](https://carbonsnitch-ny-citibike-2022-st-dashboard-awrftk.streamlit.app/)
+- Live Dashboard of NY bike-rental to determine better bike-distribution - [Citibike Dashboard](https://carbonsnitch-ny-citibike-2022-st-dashboard-awrftk.streamlit.app/) and associated [Looker Dashboard](https://lookerstudio.google.com/embed/reporting/b1fe934d-3239-4ef5-9a67-6f32ead0935c/page/8aNYF)
 
 ## Please find a link to my [portfolio](https://github.com/CarbonSnitch/CarbonSnitch/blob/main/Data_Analyst_Portfolio_RGN_PDF.pdf) of completed Projects as well as a breakdown-below
 
